@@ -1,5 +1,5 @@
 # lstm_music_generation
-Generation of Irish Folk music tracks using LSTM Neural Networks
+Generation of Irish Folk music tracks using LSTM Neural Networks (using TensorFlow)
 
 Prerequired Packages for music format conversion:
 - abc2midi (installed via apt, MacPorts, etc.)
